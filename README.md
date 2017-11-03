@@ -3,7 +3,7 @@
 This is just meant to be a quick and dirty example app on how one could extend views
 of a third party Django app. No magic, bit hacky.
 
-For more information please see the [blog post]().
+For more information please see the [blog post](https://medium.com/@_RStein_/extending-third-party-django-app-without-touching-its-code-d35fb136c08f).
 
 This is a fork of mdamien's [Django tutorial repo](https://github.com/mdamien/django-tutorial).
 
