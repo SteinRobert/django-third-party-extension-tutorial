@@ -1,3 +1,20 @@
+## Extending Third Party Django App's urlpatterns
+
+This is just meant to be a quick and dirty example app on how one could extend views
+of a third party Django app. No magic, bit hacky.
+
+For more information please see the [blog post]().
+
+This is a fork of mdamien's [Django tutorial repo](https://github.com/mdamien/django-tutorial).
+
+**Setup**
+
+1. `git clone https://github.com/SteinRobert/django-third-party-extension-tutorial`
+2. `virtualenv django-tutorial-extension`
+3. `pip install Django==1.10` 
+
+## Original Readme
+
 ## Django 1.10 Tutorial - Poll app
 
 Resulting app from the [Django 1.10 tutorial](https://docs.djangoproject.com/en/1.10/intro/tutorial01/).
